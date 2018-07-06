@@ -1,6 +1,6 @@
 # CodeCluster
 
-##Purpose
+## Purpose
 
 We developers are proud of the code we wrote, but sometimes there are some code/function/method **CodeCluster** we wrote that can have multiple use cases over various different projects.
 
